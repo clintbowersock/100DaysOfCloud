@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Clint's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm Clint and I am from Kansas.
 
-[✍️ Tell us why you started this challenge]
+I am new to Cloud and want to learn all I can about it.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I want to know as much as I can from this 100 days, but continue to learn after.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
